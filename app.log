@@ -1,0 +1,1639 @@
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc00029c300 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643212468262.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643212468262.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643212468262.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643212468262.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643212468262.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643212468262.woff2
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc00021a300 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643212478982.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643212478983.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643212478983.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643212478983.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643212478983.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643212478983.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00021a300 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643212478982.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643212478983.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643212478983.css
+DEBUG | [DevWebServer] Websocket client 0xc00021a000 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643212478983.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643212478983.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643213268759.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643213268759.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643213268759.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643213268759.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643213268759.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643213268759.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0003126c0 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+ERROR | listen tcp4 127.0.0.1:34115: bind: address already in use
+DEBUG | [DevWebServer] Shutdown completed
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643213317440.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643213317440.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643213317440.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643213317440.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643213317440.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643213317440.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0003126c0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213317440.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643213317440.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213317440.css
+DEBUG | [DevWebServer] Websocket client 0xc0002a0060 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643213317440.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643213317440.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc0002a0060 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643213317440.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213317440.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213317440.css
+DEBUG | [DevWebServer] Websocket client 0xc0002a0210 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643213317440.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643213317440.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc0002a0210 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213317440.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643213317440.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213317440.js
+DEBUG | [DevWebServer] Websocket client 0xc0003120f0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643213317440.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643213317440.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc0003120f0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213317440.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643213317440.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213317440.js
+DEBUG | [DevWebServer] Websocket client 0xc0003120f0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643213317440.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643213317440.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+ERROR | listen tcp4 127.0.0.1:34115: bind: address already in use
+DEBUG | [DevWebServer] Shutdown completed
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643213812296.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643213812296.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643213812296.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643213812296.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643213812296.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643213812296.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0003120f0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213812296.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213812296.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643213812296.js
+DEBUG | [DevWebServer] Websocket client 0xc0003120f0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643213812296.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643213812296.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+ERROR | listen tcp4 127.0.0.1:34115: bind: address already in use
+DEBUG | [DevWebServer] Shutdown completed
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643213859051.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643213859051.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643213859051.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643213859051.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643213859051.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643213859051.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0003120f0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643213859051.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213859051.css
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213859051.js
+DEBUG | [DevWebServer] Websocket client 0xc0002a0a20 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643213859051.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643213859051.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [BrowserAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643213859051.woff
+DEBUG | [DevWebServer] Websocket client 0xc0002a0a20 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213859051.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643213859051.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643213859051.js
+DEBUG | [DevWebServer] Websocket client 0xc0001e24e0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643213859051.woff2
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643213859051.png
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc000286090 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214286067.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214286067.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214286067.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214286067.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643214286067.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214286067.woff2
+DEBUG | [DevWebServer] Websocket client 0xc000286090 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214286067.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214286067.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643214286067.js
+DEBUG | [DevWebServer] Websocket client 0xc000286000 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643214286067.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214286067.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc0001e4300 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214344727.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214344727.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214344727.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214344727.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643214344727.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214344727.woff2
+DEBUG | [DevWebServer] Starting shutdown
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc0000b4090 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214423016.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214423016.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214423016.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214423016.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643214423016.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214423016.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0000b4090 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214423016.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214423016.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643214423016.js
+DEBUG | [DevWebServer] Websocket client 0xc0000b4090 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643214423016.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214423016.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc0003123c0 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214472398.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214472399.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214472399.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214472399.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643214472399.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214472399.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0003123c0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214472398.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643214472399.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214472399.css
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643214472399.png
+DEBUG | [DevWebServer] Websocket client 0xc0003123c0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214472399.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc00038c000 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214652631.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214652631.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214652631.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214652631.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643214652631.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214652631.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00038c000 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214652631.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643214652631.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214652631.css
+DEBUG | [DevWebServer] Websocket client 0xc00031a000 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643214652631.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214652631.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214772669.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214772669.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214772669.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214772669.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643214772669.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214772669.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0003126c0 connected
+DEBUG | [DevWebServer] Websocket client 0xc0003126c0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643214772669.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214772669.css
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214772669.js
+DEBUG | [DevWebServer] Websocket client 0xc0001e4000 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643214772669.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214772669.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc00029e000 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214905295.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643214905295.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214905295.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643214905295.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643214905295.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214905295.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00029e000 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643214905295.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214905295.css
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643214905295.js
+DEBUG | [DevWebServer] Websocket client 0xc0001e41e0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643214905295.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643214905295.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc0001e41e0 disconnected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215323648.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215323648.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215323648.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215323648.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643215323648.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215323648.woff2
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215323648.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643215323648.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215323648.css
+DEBUG | [DevWebServer] Websocket client 0xc000324000 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643215323648.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215323648.woff2
+DEBUG | [BrowserAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643215323648.woff
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc00038c000 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215408703.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215408703.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215408703.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215408703.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643215408703.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215408703.woff2
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215323648.css
+DEBUG | [DevWebServer] Websocket client 0xc00038c000 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215408703.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215408703.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643215408703.js
+DEBUG | [DevWebServer] Websocket client 0xc00038c2d0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643215408703.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215408703.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc00038c2d0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215408703.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643215408703.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215408703.css
+DEBUG | [DevWebServer] Websocket client 0xc00038c2d0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643215408703.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215408703.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc000288300 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215457869.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215457869.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215457869.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215457869.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643215457869.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215457869.woff2
+DEBUG | [DevWebServer] Websocket client 0xc000288300 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643215457869.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215457869.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215457869.css
+DEBUG | [DevWebServer] Websocket client 0xc0000a00c0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643215457869.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215457869.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc000288390 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215490298.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215490298.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215490298.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215490298.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643215490298.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215490298.woff2
+DEBUG | [DevWebServer] Websocket client 0xc000288390 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215490298.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215490298.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643215490298.js
+DEBUG | [DevWebServer] Websocket client 0xc0002881e0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643215490298.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215490298.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215723280.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215723280.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215723280.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215723280.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643215723280.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215723280.woff2
+DEBUG | [DevWebServer] Websocket client 0xc000304090 connected
+DEBUG | [DevWebServer] Websocket client 0xc000304090 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215723280.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643215723280.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215723280.css
+DEBUG | [DevWebServer] Websocket client 0xc0003041e0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643215723280.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215723280.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc0000ae090 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215777434.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215777434.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215777434.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215777434.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643215777434.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215777434.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0000ae090 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215777434.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643215777434.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643215777434.js
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643215777434.png
+DEBUG | [DevWebServer] Websocket client 0xc000312000 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215777434.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215957764.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643215957765.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215957765.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643215957765.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643215957765.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643215957765.woff2
+DEBUG | [DevWebServer] Websocket client 0xc000304390 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216146149.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216146149.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216146149.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216146149.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643216146149.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643216146149.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0000aa390 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216218340.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216218340.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216218340.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216218340.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643216218340.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643216218340.woff2
+DEBUG | [DevWebServer] Websocket client 0xc000296270 connected
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216334588.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216334588.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216334588.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216334588.js
+DEBUG | [DevWebServer] Websocket client 0xc00028e090 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643216334588.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643216334588.woff2
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216405650.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216405650.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216405650.js
+DEBUG | [DevWebServer] Websocket client 0xc0001dc570 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216405650.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643216405650.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643216405650.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643216405650.woff
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643216405650.css
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643216405650.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643216405650.js
+DEBUG | [DevWebServer] Websocket client 0xc0001dc1e0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643216405650.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643216405650.woff2
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643216405650.css
+DEBUG | [DevWebServer] Websocket client 0xc0001dc1e0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643216405650.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643216405650.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643216405650.css
+DEBUG | [DevWebServer] Websocket client 0xc0000c00c0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643216405650.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643216405650.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216514350.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216514350.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216514350.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216514350.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643216514350.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643216514350.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0003ce090 connected
+DEBUG | [DevWebServer] Websocket client 0xc0003ce210 connected
+DEBUG | [DevWebServer] Websocket client 0xc0003ce090 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643216514350.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643216514350.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643216514350.css
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643216514350.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643216514350.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc0003ce3f0 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc0000a6090 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216836774.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643216836774.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216836774.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643216836774.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643216836774.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643216836774.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0001e21e0 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643219122946.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643219122946.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643219122946.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643219122946.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643219122946.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643219122946.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643219122946.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1643219122946.woff
+DEBUG | [DevWebServer] Websocket client 0xc000292480 connected
+DEBUG | [DevWebServer] Websocket client 0xc000292600 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643219308119.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643219308119.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643219308119.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643219308119.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643219308119.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643219308119.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643219308119.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1643219308119.woff
+DEBUG | [DevWebServer] Websocket client 0xc0000c4510 connected
+DEBUG | [DevWebServer] Websocket client 0xc0000c4690 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643219425072.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643219425072.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643219425072.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643219425072.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643219425072.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643219425072.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643219425072.woff
+DEBUG | [DevWebServer] Websocket client 0xc000384270 connected
+DEBUG | [DevWebServer] Websocket client 0xc000384420 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643219875909.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643219875909.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643219875909.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643219875909.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643219875909.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643219875909.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643219875909.woff
+DEBUG | [DevWebServer] Websocket client 0xc0001fe450 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001fe5d0 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220012912.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220012912.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220012912.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220012912.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643220012912.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643220012912.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0003103c0 connected
+DEBUG | [DevWebServer] Websocket client 0xc0003104e0 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643220012912.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1643220012912.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmSU5fChc-.1643220012912.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOkCnqEu92Fr1MmgVxGIzQ.1643220012912.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmWUlfChc-.1643220012912.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmYUtfChc-.1643220012912.woff
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220336594.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220336594.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220336594.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220336594.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643220336594.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643220336594.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643220336594.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1643220336594.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmSU5fChc-.1643220336594.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOkCnqEu92Fr1MmgVxGIzQ.1643220336594.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmWUlfChc-.1643220336594.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmYUtfChc-.1643220336594.woff
+DEBUG | [DevWebServer] Websocket client 0xc000312510 connected
+DEBUG | [DevWebServer] Websocket client 0xc000312510 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643220336594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643220336594.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643220336594.js
+DEBUG | [DevWebServer] Websocket client 0xc0001e22a0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643220336594.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643220336594.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc0001e22a0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643220336594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643220336594.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643220336594.js
+DEBUG | [DevWebServer] Websocket client 0xc00007eea0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643220336594.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643220336594.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc00007eea0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1643220336594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643220336594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1643220336594.css
+DEBUG | [DevWebServer] Websocket client 0xc0001e2180 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/logo.1643220336594.png
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643220336594.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc0001acf30 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220697243.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220697243.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220697243.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220697243.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643220697243.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643220697243.woff2
+DEBUG | [DevWebServer] Websocket client 0xc000298090 connected
+DEBUG | {"Data":"Hello, world!","Error":{}}
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220740008.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220740008.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220740008.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220740008.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643220740008.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643220740008.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0003165a0 connected
+DEBUG | {"data":"Hello, world!","error":{}}
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc0000ae090 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220842412.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220842412.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220842412.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220842412.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643220842412.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643220842412.woff2
+DEBUG | {"data":"Hello, world!","error":""}
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643220842412.woff
+DEBUG | [DevWebServer] Websocket client 0xc0002a4060 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220886921.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220886921.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220886921.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220886921.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643220886921.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643220886921.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0002b6090 connected
+ERROR | error parsing arguments: json: cannot unmarshal number into Go value of type map[string]interface {}
+DEBUG | {"data":"Hello, world!","error":""}
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643220886921.woff
+ERROR | error parsing arguments: json: cannot unmarshal number into Go value of type map[string]interface {}
+DEBUG | {"data":"Hello, world!","error":""}
+DEBUG | [DevWebServer] Websocket client 0xc0001ea570 connected
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220950392.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1643220950392.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220950392.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1643220950392.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1643220950392.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1643220950392.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00029e3c0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643220336594.woff
+DEBUG | {"data":"Hello, world!","error":""}
+DEBUG | {"data":null,"error":"failed to say hello"}
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1643220950392.woff
+DEBUG | [DevWebServer] Websocket client 0xc0001e0450 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644506728841.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644506728841.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644506728841.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644506728841.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1644506728841.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644506728841.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1644506728841.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1644506728841.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmSU5fChc-.1644506728841.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOkCnqEu92Fr1MmgVxGIzQ.1644506728841.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmWUlfChc-.1644506728841.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmYUtfChc-.1644506728841.woff
+DEBUG | {"data":"Hello, world!","error":""}
+DEBUG | {"data":null,"error":"failed to say hello"}
+DEBUG | {"data":null,"error":"failed to say hello"}
+DEBUG | {"data":"Hello, world!","error":""}
+DEBUG | {"data":"Hello, world!","error":""}
+DEBUG | {"data":null,"error":"failed to say hello"}
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644507042145.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644507042145.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644507042145.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644507042145.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1644507042145.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644507042145.woff2
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644507081344.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644507081344.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644507081344.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644507081344.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1644507081344.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644507081344.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1644507081344.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1644507081344.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmSU5fChc-.1644507081344.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOkCnqEu92Fr1MmgVxGIzQ.1644507081344.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmWUlfChc-.1644507081344.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmYUtfChc-.1644507081344.woff
+DEBUG | {"data":null,"error":"failed to say hello"}
+DEBUG | {"data":"Hello, world!","error":""}
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644507751140.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644507751140.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644507751140.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644507751140.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1644507751140.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644507751140.woff2
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644901536775.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644901536775.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644901536775.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644901536775.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1644901536775.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644901536775.woff2
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644902361097.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644902361097.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644902361097.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644902361097.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1644902361097.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644902361097.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1644902361097.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1644902361097.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmSU5fChc-.1644902361097.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOkCnqEu92Fr1MmgVxGIzQ.1644902361097.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmWUlfChc-.1644902361097.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmYUtfChc-.1644902361097.woff
+DEBUG | {"data":"Hello, world!","error":""}
+DEBUG | {"data":null,"error":"failed to say hello"}
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644902741812.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644902741812.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644902741812.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644902741812.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1644902741812.png
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644902741812.woff2
+DEBUG | showWelcome = false
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903089643.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903089643.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903089643.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903089643.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1644903089643.png
+DEBUG | showWelcome = false
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644903089643.woff2
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903400523.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903400523.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903400523.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903400523.js
+DEBUG | [DesktopAssetServer] Loading file: assets/logo.1644903400523.png
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1644903400523.png
+DEBUG | showWelcome = false
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644903400523.woff2
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903426663.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903426663.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903426663.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903426663.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1644903426663.png
+DEBUG | showWelcome = false
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644903426663.woff2
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903568915.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903568915.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903568915.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903568915.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1644903568915.png
+DEBUG | showWelcome = false
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644903568915.woff2
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903604798.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903604798.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903604798.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903604798.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1644903604798.png
+DEBUG | showWelcome = false
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644903604798.woff2
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903652297.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644903652297.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903652297.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644903652297.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1644903652297.png
+DEBUG | showWelcome = false
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1644903652297.woff2
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644905872009.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644905872010.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644905872010.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644905872010.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1644905872010.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644906238594.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644906238594.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644906238594.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644906238594.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1644906238594.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1644906238594.js
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1644906238594.css
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1644906238594.js
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1644906238594.js
+DEBUG | [DevWebServer] Websocket client 0xc00033e5d0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/Welcome.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1644906238594.js
+DEBUG | [DevWebServer] Websocket client 0xc00033e0f0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/Welcome.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1644906238594.woff
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1644906238594.css
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1644906238594.css
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.css
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1644906238594.css
+DEBUG | [DevWebServer] Websocket client 0xc00033e0f0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.css
+DEBUG | [DevWebServer] Websocket client 0xc00033e0f0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/Welcome.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc00033e0f0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1644906238594.js
+DEBUG | [DevWebServer] Websocket client 0xc00033e0f0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/Welcome.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1644906238594.css
+DEBUG | [DevWebServer] Websocket client 0xc00033e0f0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.css
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1644906238594.js
+DEBUG | [DevWebServer] Websocket client 0xc00029e4b0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/Welcome.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1644906238594.css
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1644906238594.js
+DEBUG | [DevWebServer] Websocket client 0xc00029e4b0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1644906238594.css
+DEBUG | [DevWebServer] Websocket client 0xc00033e0f0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/Welcome.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1644906238594.js
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1644906238594.css
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc0001ea2d0 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644907772625.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1644907772625.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644907772625.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1644907772625.js
+DEBUG | [DevWebServer] Websocket client 0xc0001ea450 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001ea450 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001ea2d0 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001ea2d0 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001ea450 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001ea2d0 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001ea450 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001ea450 connected
+DEBUG | [DevWebServer] Websocket client 0xc00031e5a0 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001ea2d0 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001ea450 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645005140965.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645005140965.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645005140965.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645005140965.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645005140965.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645005442896.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645005442897.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645005442897.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645005442897.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645005442897.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645005550316.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645005550316.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645005550316.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645005550316.js
+DEBUG | [DevWebServer] Websocket client 0xc0000bc090 connected
+DEBUG | [DevWebServer] Websocket client 0xc0000bc210 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645005550316.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645005550316.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645005660167.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645005660167.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645005660167.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645005660167.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645005660167.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645005660167.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645005660167.png
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645005660167.css
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645005660167.js
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645005660167.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645005660167.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00007e390 connected
+DEBUG | [DevWebServer] Websocket client 0xc00007e510 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1645005660167.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1645005660167.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmSU5fChc-.1645005660167.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOkCnqEu92Fr1MmgVxGIzQ.1645005660167.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmWUlfChc-.1645005660167.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmYUtfChc-.1645005660167.woff
+DEBUG | {"data":"Hello, world!","error":""}
+DEBUG | {"data":null,"error":"failed to say hello"}
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645005719649.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645005719649.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645005719649.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645005719649.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645005719649.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645005719649.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645005719649.png
+DEBUG | [DevWebServer] Websocket client 0xc0002a2060 connected
+DEBUG | [DevWebServer] Websocket client 0xc0002a21e0 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1645005719649.woff
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645005719649.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645005719649.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645005719649.css
+DEBUG | [DevWebServer] Websocket client 0xc0000be0f0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/Welcome.1645005719649.js
+DEBUG | [BrowserAssetServer] Loading file: assets/welcome.1645005719649.png
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645005719649.css
+DEBUG | [DevWebServer] Websocket client 0xc0002a2390 connected
+DEBUG | [DevWebServer] Websocket client 0xc0002a2540 connected
+DEBUG | [DevWebServer] Websocket client 0xc0002a26c0 connected
+DEBUG | [DevWebServer] Websocket client 0xc0002a2390 connected
+DEBUG | [DevWebServer] Websocket client 0xc0002a2540 connected
+DEBUG | [DevWebServer] Websocket client 0xc0002a26c0 connected
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645014106551.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645014106551.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645014106551.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645014106551.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645014106551.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645014212150.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645014212150.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645014212150.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645014212150.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645014212150.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645014212150.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645014212150.png
+DEBUG | [DevWebServer] Websocket client 0xc00043c060 connected
+DEBUG | [DevWebServer] Websocket client 0xc00043c1e0 connected
+DEBUG | [DevWebServer] Websocket client 0xc00030a330 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645014235245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645014235245.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645014235245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645014235245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645014235245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645014235245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645014235245.png
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645014235245.css
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645014235245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645014235245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645014235245.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00030e270 connected
+DEBUG | [DevWebServer] Websocket client 0xc00030e3f0 connected
+DEBUG | [DevWebServer] Websocket client 0xc00030e570 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1645014235245.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1645014235245.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmSU5fChc-.1645014235245.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOkCnqEu92Fr1MmgVxGIzQ.1645014235245.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmWUlfChc-.1645014235245.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmYUtfChc-.1645014235245.woff
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645014681895.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645014681895.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645014681895.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645014681895.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645014681895.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645015074619.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645015074619.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645015074619.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645015074619.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645015074619.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645015416986.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645015416986.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645015416986.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645015416986.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645015416986.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645015416986.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645015416986.png
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645015416986.css
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645015416986.js
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645015416986.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645015416986.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1645015416986.woff
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645015529879.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645015529879.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645015529879.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645015529879.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645015529879.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645015529879.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645015529879.png
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645015529879.css
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645015529879.js
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645015529879.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645015529879.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1645015529879.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1645015529879.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmSU5fChc-.1645015529879.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOkCnqEu92Fr1MmgVxGIzQ.1645015529879.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmWUlfChc-.1645015529879.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmYUtfChc-.1645015529879.woff
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645020746801.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645020746801.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645020746801.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645020746801.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645020746801.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645020763674.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645020763674.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645020763674.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645020763674.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645020763674.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645020763674.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645020763674.png
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450207636742.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450207636742.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645023538083.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645023538083.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645023538083.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645023538083.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645023538083.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645023538083.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645023684998.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645023684998.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645023684998.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645023684998.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645023684998.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645023684998.js
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645023684998.css
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645023684998.js
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645023684998.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645023684998.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645023684998.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645023684998.css
+DEBUG | [DevWebServer] Websocket client 0xc0001e2240 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/Welcome.1645023684998.js
+DEBUG | [BrowserAssetServer] Loading file: assets/welcome.1645023684998.png
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1645023684998.js
+DEBUG | [BrowserAssetServer] Loading file: assets/HelloWorld.1645023684998.css
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645023684998.woff2
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450236849982.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645023880027.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645023880027.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645023880027.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645023880027.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645023880027.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645023880027.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645023880027.png
+DEBUG | [DevWebServer] Websocket client 0xc0002a8090 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645023880027.css
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645023880027.js
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645023880027.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645023880027.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450238800272.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450238800272.js
+DEBUG | [DevWebServer] Websocket client 0xc0002a8090 connected
+DEBUG | [DevWebServer] Websocket client 0xc0002a81b0 connected
+DEBUG | [DevWebServer] Websocket client 0xc0002a81b0 disconnected
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645075593744.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645075593744.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645075593744.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645075593744.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645075593744.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645075593744.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645075593744.png
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450755937442.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645075593744.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076058699.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076058699.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076058699.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076058699.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076058699.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076058699.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645076058699.png
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450760586992.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076058699.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076175810.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076175810.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076175810.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076175810.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076175810.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076175810.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645076175810.png
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450761758102.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076175810.js
+ERROR | Error processing request ails://wails/assets/index.16450761758102.js: parse "\x02ails://wails/assets/index.16450761758102.js": net/url: invalid control character in URL
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076175810.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645076175810.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1645076175810.woff
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076265801.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076265801.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076265801.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076265801.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076265801.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076265801.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450762658012.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076265801.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076367435.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076367435.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076367435.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076367435.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076367435.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076367435.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450763674352.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076367435.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076560063.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076560063.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076560063.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076560063.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076560063.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076560063.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645076560063.png
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450765600632.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076560063.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076592565.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076592565.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076592565.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076592565.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076592565.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076592565.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645076592565.png
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450765925652.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076592565.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076658956.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076658956.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076658956.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076658956.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076658956.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076658956.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645076658956.png
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450766589562.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076658956.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450766589562.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076658956.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645076658956.woff2
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076712149.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076712149.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076712149.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076712149.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076712149.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076712149.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645076712149.png
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450767121492.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076712149.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076814088.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076814088.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076814088.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076814088.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076814088.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076814088.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645076814088.png
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450768140882.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076814088.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450768140882.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076814088.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645076814088.woff2
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076855521.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076855521.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076855521.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076855521.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076855521.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076855521.js
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645076855521.png
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450768555212.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076855521.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450768555212.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076855521.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645076855521.woff2
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076911257.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076911257.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076911257.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076911257.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076911257.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076911257.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450769112572.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076911257.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076937181.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645076937181.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076937181.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645076937181.js
+DEBUG | [DesktopAssetServer] Loading file: assets/Welcome.1645076937181.js
+ERROR | Error processing request wails://wails/assets/Welcome.1645076937181.js: parse "wails://wails/assets/Welcome.1645076937181.js\x06": net/url: invalid control character in URL
+DEBUG | [DesktopAssetServer] Loading file: assets/welcome.1645076937181.png
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450769371812.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076937181.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450769371812.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645076937181.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645076937181.woff2
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079147747.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079147747.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079147747.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079147747.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450791477472.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645079147747.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079165971.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079165971.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079165971.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079165971.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450791659712.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645079165971.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450791659712.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645079165971.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645079165971.woff2
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079198635.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079198635.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079198635.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079198635.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450791986352.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645079198635.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450791986352.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645079198635.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645079198635.woff2
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079198635.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645079198635.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079198635.css
+DEBUG | [DevWebServer] Websocket client 0xc0003961e0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645079198635.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450791986352.js
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645079198635.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079198635.css
+DEBUG | [DevWebServer] Websocket client 0xc0003961e0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079198635.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079198635.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645079198635.js
+DEBUG | [DevWebServer] Websocket client 0xc00007e0c0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450791986352.js
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645079198635.js
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645079198635.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc00007e0c0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645079198635.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079198635.css
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079198635.js
+DEBUG | [DevWebServer] Websocket client 0xc000396180 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645079198635.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450791986352.js
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645079198635.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc000308090 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079432817.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079432817.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079432817.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079432817.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450794328172.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645079432817.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450794328172.js
+DEBUG | [DevWebServer] Websocket client 0xc000308090 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079432817.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645079432817.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079432817.css
+DEBUG | [DevWebServer] Websocket client 0xc000308090 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450794328172.js
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645079432817.js
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645079432817.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc000308090 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079432817.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645079432817.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079432817.css
+DEBUG | [DevWebServer] Websocket client 0xc000308090 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450794328172.js
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645079432817.js
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645079432817.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079432817.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079432817.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079432817.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079432817.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450794328172.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645079432817.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450794328172.js
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc00031e3c0 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079482471.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079482471.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079482471.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079482471.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450794824712.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645079482471.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450794824712.js
+DEBUG | [BrowserAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1645079432817.woff
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DevWebServer] Websocket client 0xc00021a240 connected
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079557438.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645079557438.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079557438.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645079557438.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450795574382.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645079557438.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450795574382.js
+DEBUG | [DevWebServer] Websocket client 0xc00021a240 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079557438.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645079557438.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079557438.css
+DEBUG | [DevWebServer] Websocket client 0xc00021a7e0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645079557438.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450795574382.js
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645079557438.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc00021a7e0 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645079557438.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079557438.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645079557438.css
+DEBUG | [DevWebServer] Websocket client 0xc00021a1e0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450795574382.js
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645079557438.js
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645079557438.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645081712109.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645081712110.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645081712110.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645081712110.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645081712110.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645081712110.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645081712110.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645081712110.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645081712110.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0002604b0 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645082290443.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645082290443.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645082290443.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645082290443.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450822904432.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645082290443.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450822904432.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645082290443.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645082290443.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00027c000 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645082402665.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645082402665.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645082402665.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645082402665.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450824026652.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645082402665.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450824026652.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645082402665.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645082402665.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645082402665.js
+DEBUG | [DevWebServer] Websocket client 0xc00007e6c0 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450824026652.js
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645082402665.js
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645082402665.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0003c40c0 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645082465399.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645082465399.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645082465399.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645082465399.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450824653992.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645082465399.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450824653992.js
+DEBUG | [DevWebServer] Websocket client 0xc0000b6270 connected
+DEBUG | [DevWebServer] Websocket client 0xc0000b6420 connected
+DEBUG | [DevWebServer] Websocket client 0xc0000b6270 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645082465399.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645082465399.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645082465399.js
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645082465399.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450824653992.js
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645082465399.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc00030a0c0 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645082592824.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645082592824.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645082592824.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645082592824.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450825928242.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645082592824.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450825928242.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645082592824.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645082592824.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00031e3c0 connected
+DEBUG | [DevWebServer] Websocket client 0xc00031e540 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645082684716.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645082684716.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645082684716.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645082684716.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450826847162.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645082684716.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450826847162.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645082684716.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645082684716.woff2
+DEBUG | [DevWebServer] Websocket client 0xc0001e8420 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001e85d0 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001e8420 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645082684716.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645082684716.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645082684716.css
+DEBUG | [DevWebServer] Websocket client 0xc0000e8150 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645082684716.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450826847162.js
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645082684716.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645084297095.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645084297095.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645084297095.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645084297095.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450842970952.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645084297095.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450842970952.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645084297095.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645084297095.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00031a3c0 connected
+DEBUG | [DevWebServer] Websocket client 0xc00031a540 connected
+DEBUG | [DevWebServer] Websocket client 0xc00031a540 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645084297095.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645084297095.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645084297095.css
+DEBUG | [DevWebServer] Websocket client 0xc00031a000 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450842970952.js
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645084297095.js
+DEBUG | [BrowserAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645084297095.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645084297095.css
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+ERROR | listen tcp4 127.0.0.1:34115: bind: address already in use
+DEBUG | [DevWebServer] Shutdown completed
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645089044987.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645089044987.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645089044987.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645089044987.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450890449872.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645089044987.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450890449872.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645089044987.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645089044987.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645089044987.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645089044987.css
+DEBUG | [DevWebServer] Websocket client 0xc000162d80 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/notify.1645089044987.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450890449872.js
+DEBUG | [BrowserAssetServer] Loading file: assets/fa-solid-900.1645089044987.woff2
+DEBUG | [DevWebServer] Websocket client 0xc000162d80 disconnected
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1645089044987.woff
+DEBUG | [DevWebServer] Websocket client 0xc00031a000 connected
+DEBUG | [DevWebServer] Websocket client 0xc00031a5d0 connected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+ERROR | listen tcp4 127.0.0.1:34115: bind: address already in use
+DEBUG | [DevWebServer] Shutdown completed
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645090338270.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645090338270.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645090338270.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645090338270.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450903382702.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645090338270.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450903382702.js
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645090441458.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645090441458.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645090441458.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645090441458.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450904414582.js
+DEBUG | [DesktopAssetServer] Loading file: assets/use-prevent-scroll.1645090441458.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450904414582.js
+DEBUG | [DesktopAssetServer] Loading file: assets/use-prevent-scroll.1645090441458.js
+DEBUG | [DesktopAssetServer] Loading file: assets/fa-solid-900.1645090441458.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00031a3c0 connected
+DEBUG | [DevWebServer] Websocket client 0xc00031a540 connected
+DEBUG | [DevWebServer] Websocket client 0xc00031a540 disconnected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645090441458.js
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645090441458.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645090441458.css
+DEBUG | [DevWebServer] Websocket client 0xc00031a540 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450904414582.js
+DEBUG | [BrowserAssetServer] Loading file: assets/use-prevent-scroll.1645090441458.js
+DEBUG | [BrowserAssetServer] Loading file: assets/fa-solid-900.1645090441458.woff2
+DEBUG | [BrowserAssetServer] Loading file: favicon.ico
+DEBUG | [DevWebServer] Websocket client 0xc00031a540 disconnected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645096081024.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645096081024.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645096081024.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645096081024.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450960810242.js
+DEBUG | [DesktopAssetServer] Loading file: assets/use-prevent-scroll.1645096081024.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450960810242.js
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645096108304.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645096108304.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645096108304.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645096108304.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450961083042.js
+DEBUG | [DesktopAssetServer] Loading file: assets/use-prevent-scroll.1645096108304.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16450961083042.js
+DEBUG | [DesktopAssetServer] Loading file: assets/use-prevent-scroll.1645096108304.js
+DEBUG | [DesktopAssetServer] Loading file: assets/fa-solid-900.1645096108304.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00031e390 connected
+DEBUG | [DevWebServer] Websocket client 0xc00031e540 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645096108304.css
+DEBUG | [BrowserAssetServer] Loading file: assets/vendor.1645096108304.js
+DEBUG | [BrowserAssetServer] Loading file: assets/index.1645096108304.js
+DEBUG | [DevWebServer] Websocket client 0xc00031e390 connected
+DEBUG | [BrowserAssetServer] Loading file: assets/index.16450961083042.js
+DEBUG | [BrowserAssetServer] Loading file: assets/use-prevent-scroll.1645096108304.js
+DEBUG | [BrowserAssetServer] Loading file: assets/fa-solid-900.1645096108304.woff2
+DEBUG | [DevWebServer] Websocket client 0xc00031e390 disconnected
+DEBUG | [DevWebServer] Websocket client 0xc00031e540 connected
+DEBUG | [DevWebServer] Websocket client 0xc00031e540 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001ea270 connected
+DEBUG | [DevWebServer] Websocket client 0xc0001ea270 disconnected
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645162576245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16451625762452.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645162576245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645162576245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645162576245.css
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16451625762452.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645162576245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16451625762452.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645162576245.js
+DEBUG | [DesktopAssetServer] Loading file: assets/fa-solid-900.1645162576245.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1645162576245.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1645162576245.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmSU5fChc-.1645162576245.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOkCnqEu92Fr1MmgVxGIzQ.1645162576245.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmWUlfChc-.1645162576245.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmYUtfChc-.1645162576245.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/Eva-Icons.1645162576245.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645162576245.woff2
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/hguru/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645425359172.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16454253591722.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645425359172.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645425359172.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645425359172.css
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16454253591722.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645425359172.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.16454253591722.js
+DEBUG | [DesktopAssetServer] Loading file: assets/notify.1645425359172.js
+DEBUG | [DesktopAssetServer] Loading file: assets/fa-solid-900.1645425359172.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOmCnqEu92Fr1Mu7GxM.1645425359172.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmEU9fChc-.1645425359172.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmSU5fChc-.1645425359172.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOkCnqEu92Fr1MmgVxGIzQ.1645425359172.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmWUlfChc-.1645425359172.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/KFOlCnqEu92Fr1MmYUtfChc-.1645425359172.woff
+DEBUG | [DesktopAssetServer] Loading file: assets/Eva-Icons.1645425359172.woff2
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645425359172.woff2
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
+INFO  | Serving assets from disk: /Users/ruihe/coding/works/drharryhe.github.com/wailsdemo/frontend/dist
+DEBUG | [DevWebServer] Serving application at http://localhost:34115
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645511277043.js
+DEBUG | [DesktopAssetServer] Loading file: assets/index.1645511277043.css
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645511277043.js
+DEBUG | [DesktopAssetServer] Loading file: assets/vendor.1645511277043.js
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645511277043.css
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645511277043.js
+DEBUG | [DesktopAssetServer] Loading file: assets/HelloWorld.1645511277043.js
+DEBUG | [DesktopAssetServer] Loading file: assets/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.1645511277043.woff2
+DEBUG | [DevWebServer] Starting shutdown
+DEBUG | [DevWebServer] Shutdown completed
